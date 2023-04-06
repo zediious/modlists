@@ -1,0 +1,39 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "The Phoenix Flavor - Zediious Sprinkles",
+    "description": "1500+ mod and 1000+ plugin list, patched extensively and providing an all around modern gaming experience in Skyrim.",
+    "author": "Zediious",
+    "maintainers": [
+      "github/zediious"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "Early Release",
+      "Modern Combat",
+      "Complete Settlement Overhaul",
+      "Custom Leveled Lists"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/zediious/modlists/main/splash_piece_finished.png",
+      "readme": "https://github.com/zediious/tpfz-sprinkles/wiki",
+      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "machineURL": "thephoenixflavor_zedsprinkles",
+      "discordURL": "https://discord.gg/CvhTeavrcW"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "e1+K7eJbDJw=",
+      "Size": 0,
+      "NumberOfArchives": 14,
+      "SizeOfArchives": 135206078,
+      "NumberOfInstalledFiles": 1311,
+      "SizeOfInstalledFiles": 336453775
+    },
+    "version": "0.9.1.1"
+  }
+]
