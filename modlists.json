@@ -2,38 +2,41 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "The Phoenix Flavor - Zediious Sprinkles",
-    "description": "1500+ mod and 1000+ plugin list, patched extensively and providing an all around modern gaming experience in Skyrim.",
+    "description": "1500+ mod and 1000+ plugin list, patched extensively and providing an all around modern gaming experience in Skyrim.\r\n\r\n\r\nSerio ENB or Ominous ENB\r\n\r\nMassively Overhauled and Modern Combat\r\n\r\nVarious New and Reworked Mechanics\r\n\r\nNew and Improved Quests, Locations, and Creatures\r\n\r\nComplete Settlement Overhaul with every settlement covered\r\n\r\nCustom Armor/Weapon leveled lists utilizing a very large amount of mod-added equipment\r\n\r\n\r\nAnd much more! Check the Wiki to see a full list of notable mods!\r\n",
     "author": "Zediious",
     "maintainers": [
       "github/zediious"
     ],
     "game": "skyrimspecialedition",
     "tags": [
-      "Early Release",
       "Modern Combat",
       "Complete Settlement Overhaul",
-      "Custom Leveled Lists"
+      "Overhauled Locations",
+      "New Quests",
+      "New Creatures",
+      "Huge Custom Leveled Lists",
+      "Simonrim"
     ],
     "nsfw": false,
-    "image_contains_title": false,
+    "image_contains_title": true,
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/zediious/modlists/main/splash_piece_finished.png",
+      "image": "https://raw.githubusercontent.com/zediious/modlists/main/centeredlogo.png",
       "readme": "https://github.com/zediious/tpfz-sprinkles/wiki",
-      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "download": "https://authored-files.wabbajack.org/The%20Phoenix%20Flavor%20-%20Zediious%20Sprinkles.wabbajack_8afc9c23-40c4-4faf-83c9-55eaff3b8421",
       "machineURL": "thephoenixflavor_zedsprinkles",
       "discordURL": "https://discord.gg/CvhTeavrcW"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "e1+K7eJbDJw=",
-      "Size": 0,
-      "NumberOfArchives": 14,
-      "SizeOfArchives": 135206078,
-      "NumberOfInstalledFiles": 1311,
-      "SizeOfInstalledFiles": 336453775
+      "Hash": "yP75ZK8Zvq8=",
+      "Size": 560949556,
+      "NumberOfArchives": 1797,
+      "SizeOfArchives": 121625243844,
+      "NumberOfInstalledFiles": 236416,
+      "SizeOfInstalledFiles": 188995827082
     },
-    "version": "0.9.1.1"
+    "version": "0.9.3.2"
   }
 ]
