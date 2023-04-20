@@ -1,6 +1,5 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "The Phoenix Flavor - Zediious Sprinkles",
     "description": "1500+ mod and 1000+ plugin list, patched extensively and providing an all around modern gaming experience in Skyrim.\r\n\r\n\r\nSerio ENB or Ominous ENB\r\n\r\nMassively Overhauled and Modern Combat\r\n\r\nVarious New and Reworked Mechanics\r\n\r\nNew and Improved Quests, Locations, and Creatures\r\n\r\nComplete Settlement Overhaul with every settlement covered\r\n\r\nCustom Armor/Weapon leveled lists utilizing a very large amount of mod-added equipment\r\n\r\n\r\nAnd much more! Check the Wiki to see a full list of notable mods!\r\n",
     "author": "Zediious",
@@ -21,7 +20,6 @@
     "image_contains_title": true,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/zediious/modlists/main/centeredlogo.png",
       "readme": "https://github.com/zediious/tpfz-sprinkles/wiki",
       "download": "https://authored-files.wabbajack.org/The%20Phoenix%20Flavor%20-%20Zediious%20Sprinkles.wabbajack_ad8c1bcd-e0fc-4513-a0ac-6cd999b4c136",
@@ -29,7 +27,6 @@
       "discordURL": "https://discord.gg/CvhTeavrcW"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
       "Hash": "Pd1+3gP9VKs=",
       "Size": 560925955,
       "NumberOfArchives": 1798,
