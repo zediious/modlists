@@ -24,21 +24,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/zediious/modlists/main/centeredlogo.png",
       "readme": "https://github.com/zediious/tpfz-sprinkles/wiki",
-      "download": "https://authored-files.wabbajack.org/The%20Phoenix%20Flavor%20-%20Zediious%20Sprinkles.wabbajack_6839ee16-35be-4c69-ab74-612343abaa46",
+      "download": "https://authored-files.wabbajack.org/The Phoenix Flavor - Zediious Sprinkles.wabbajack_f418bfcd-74ad-4b19-a0b9-c1de3200116f",
       "machineURL": "thephoenixflavor_zedsprinkles",
       "discordURL": "https://discord.gg/CvhTeavrcW"
     },
     "download_metadata": {
-      "Hash": "4u2L/H2Qff8=",
-      "Size": 502958708,
-      "NumberOfArchives": 1819,
-      "SizeOfArchives": 122709424384,
-      "NumberOfInstalledFiles": 238250,
-      "SizeOfInstalledFiles": 198868889396
+      "Hash": "DnCPuuplH88=",
+      "Size": 449117173,
+      "NumberOfArchives": 2042,
+      "SizeOfArchives": 132575815022,
+      "NumberOfInstalledFiles": 266832,
+      "SizeOfInstalledFiles": 223384727826
     },
-    "version": "0.9.4.1",
+    "version": "0.9.5",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-05-22T07:24:57.8837401Z",
+    "dateUpdated": "2023-10-15T03:22:39.5313326Z",
     "repositoryName": ""
   }
 ]
