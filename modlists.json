@@ -1,6 +1,7 @@
 [
   {
-    "title": "The Phoenix Flavor - Zediious Sprinkles",
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Aurbaesence",
     "description": "A content-filled and game-changing list, patched extensively and providing a modern gaming experience in Skyrim.\r\n\r\nFeatures include massively overhauled and modern combat, various new and reworked mechanics, a multitude of new and improved quests, locations, and creatures to find in the world, a complete settlement overhaul with every settlement covered along with custom equipment leveled lists utilizing a very large amount of mod-added equipment. This does not cover nearly everything! Check the Wiki to see a full list of notable mods!\r\n",
     "author": "Zediious",
     "maintainers": [
