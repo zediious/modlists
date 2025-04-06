@@ -2,7 +2,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Aurbaesence",
-    "description": "A content-filled and game-changing list, patched extensively and providing a modern gaming experience in Skyrim.\r\n\r\nFeatures include massively overhauled and modern combat, various new and reworked mechanics, a multitude of new and improved quests, locations, and creatures to find in the world, a complete settlement overhaul with every settlement covered along with custom equipment leveled lists utilizing a very large amount of mod-added equipment. This does not cover nearly everything! Check the Wiki to see a full list of notable mods!\r\n",
+    "description": "A content-filled and game-changing list, curated extensively to provide a modern gaming experience in Skyrim.\r\n\r\nFeatures include massively overhauled animations and modern combat, various new and reworked mechanics, a multitude of new and improved quests, locations, and creatures to find in the world, a complete settlement overhaul with every settlement covered along with custom equipment leveled lists utilizing a very large amount of mod-added equipment.\r\n\r\nBreathe life into the world with a variety of new content and mechanics! (Previously known as The Phoenix Flavor - Zediious Sprinkles)",
     "author": "Zediious",
     "maintainers": [
       "github/zediious"
@@ -24,19 +24,19 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/zediious/modlists/main/newbanner_smallertext.png",
-      "readme": "https://zediious.github.io/tpfz-sprinkles/docs/",
-      "download": "https://authored-files.wabbajack.org/The Phoenix Flavor - Zediious Sprinkles.wabbajack_7664dff4-d9cb-4792-aae0-4aac8aeae131",
-      "machineURL": "thephoenixflavor_zedsprinkles",
+      "image": "https://raw.githubusercontent.com/zediious/tpfz-sprinkles/refs/heads/main/static/banners/banner.png",
+      "readme": "https://aurbaesence.info/docs/",
+      "download": "https://authored-files.wabbajack.org/Aurbaesence.wabbajack_e46e3ac9-824e-450e-a1c3-643ea0273a8c",
+      "machineURL": "aurbaesence",
       "discordURL": "https://discord.gg/CvhTeavrcW"
     },
     "download_metadata": {
-      "Hash": "LZRuOxRN5YE=",
-      "Size": 589898103,
-      "NumberOfArchives": 2343,
-      "SizeOfArchives": 162552063902,
-      "NumberOfInstalledFiles": 373073,
-      "SizeOfInstalledFiles": 283870665912
+      "Hash": "xL7czc0QT3k=",
+      "Size": 560535358,
+      "NumberOfArchives": 2498,
+      "SizeOfArchives": 171465069622,
+      "NumberOfInstalledFiles": 388548,
+      "SizeOfInstalledFiles": 305960980438
     },
     "version": "1.0",
     "dateCreated": "1970-01-01T00:00:00Z",
