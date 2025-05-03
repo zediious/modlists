@@ -10,12 +10,14 @@
     "game": "skyrimspecialedition",
     "official": false,
     "tags": [
+      "Steam",
+      "SFW",
       "BFCO",
       "Complete Settlement Overhaul",
       "Overhauled Locations",
       "New Quests",
       "New Creatures",
-      "Huge Custom Leveled Lists",
+      "Curated Leveled Lists",
       "Simonrim"
     ],
     "nsfw": false,
@@ -26,18 +28,18 @@
     "links": {
       "image": "https://raw.githubusercontent.com/zediious/modlists/main/banner1080.webp",
       "readme": "https://aurbaesence.info/docs/",
-      "download": "https://authored-files.wabbajack.org/Aurbaesence.wabbajack_e46e3ac9-824e-450e-a1c3-643ea0273a8c",
+      "download": "https://authored-files.wabbajack.org/Aurbaesence.wabbajack_a7ab520d-92be-4b9d-b332-6d55f89f6cbe",
       "machineURL": "aurbaesence",
       "discordURL": "https://discord.gg/CvhTeavrcW"
     },
     "download_metadata": {
-      "Hash": "xL7czc0QT3k=",
-      "Size": 560535358,
-      "NumberOfArchives": 2498,
-      "SizeOfArchives": 171465069622,
-      "NumberOfInstalledFiles": 388548,
-      "SizeOfInstalledFiles": 305960980438
+      "Hash": "WyPRfEKKI/A=",
+      "Size": 560573170,
+      "NumberOfArchives": 2501,
+      "SizeOfArchives": 171465570208,
+      "NumberOfInstalledFiles": 388413,
+      "SizeOfInstalledFiles": 305962461525
     },
-    "version": "1.1"
+    "version": "1.1.1"
   }
 ]
