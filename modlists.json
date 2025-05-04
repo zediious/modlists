@@ -2,7 +2,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Aurbaesence",
-    "description": "A content-filled and game-changing list, curated extensively to provide a modern gaming experience in Skyrim.\r\n\r\nFeatures include massively overhauled animations and modern combat, various new and reworked mechanics, a multitude of new and improved quests, locations, and creatures to find in the world, a complete settlement overhaul with every settlement covered along with custom equipment leveled lists utilizing a very large amount of mod-added equipment.\r\n\r\nBreathe life into the world with a variety of new content and mechanics! (Previously known as The Phoenix Flavor - Zediious Sprinkles)",
+    "description": "A content-filled and game-changing list, curated extensively to provide a modern gaming experience in Skyrim.\r\n\r\nFeatures include massively overhauled animations and modern combat, various new and reworked mechanics, a multitude of new and improved quests, locations, and creatures to find in the world, a complete settlement overhaul with every settlement covered along with custom equipment leveled lists utilizing a very large amount of mod-added equipment.\r\n\r\nBreathe life into the world with a variety of new content and mechanics!",
     "author": "Zediious",
     "maintainers": [
       "github/zediious"
@@ -26,20 +26,20 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/zediious/modlists/main/banner1080.webp",
+      "image": "https://raw.githubusercontent.com/zediious/modlists/main/banner1080withBackground.webp",
       "readme": "https://aurbaesence.info/docs/",
-      "download": "https://authored-files.wabbajack.org/Aurbaesence.wabbajack_a7ab520d-92be-4b9d-b332-6d55f89f6cbe",
+      "download": "https://authored-files.wabbajack.org/Aurbaesence.wabbajack_ddcb3c77-ff15-47e4-9f3a-e506f3620101",
       "machineURL": "aurbaesence",
       "discordURL": "https://discord.gg/CvhTeavrcW"
     },
     "download_metadata": {
-      "Hash": "WyPRfEKKI/A=",
-      "Size": 560573170,
-      "NumberOfArchives": 2501,
-      "SizeOfArchives": 171465570208,
-      "NumberOfInstalledFiles": 388413,
-      "SizeOfInstalledFiles": 305962461525
+      "Hash": "oBDvn53fqTw=",
+      "Size": 560511670,
+      "NumberOfArchives": 2509,
+      "SizeOfArchives": 171740694764,
+      "NumberOfInstalledFiles": 389700,
+      "SizeOfInstalledFiles": 306090676976
     },
-    "version": "1.1.1"
+    "version": "1.1.2"
   }
 ]
