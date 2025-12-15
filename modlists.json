@@ -29,20 +29,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/zediious/modlists/main/banner1080withBackground.webp",
       "readme": "https://aurbaesence.info/docs/",
-      "download": "https://authored-files.wabbajack.org/Aurbaesence.wabbajack_5ac953b9-87b6-4394-85df-9976100fe13d",
+      "download": "https://authored-files.wabbajack.org/Aurbaesence.wabbajack_b4f9f787-81f6-4246-9709-9d51d6215f19",
       "machineURL": "aurbaesence",
       "discordURL": "https://discord.gg/CvhTeavrcW"
     },
     "download_metadata": {
-      "Hash": "lYlDfpfnZxo=",
-      "Size": 561393554,
-      "NumberOfArchives": 2566,
-      "SizeOfArchives": 174204582172,
+      "Hash": "cdrn/+NJByg=",
+      "Size": 561395028,
+      "NumberOfArchives": 2564,
+      "SizeOfArchives": 174202471218,
       "NumberOfInstalledFiles": 399016,
-      "SizeOfInstalledFiles": 310792556470
+      "SizeOfInstalledFiles": 310792539739
     },
-    "version": "1.1.5.1"
+    "version": "1.1.5.2"
   }
 ]
+
 
 
